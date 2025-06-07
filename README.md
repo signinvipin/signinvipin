@@ -1,0 +1,20 @@
+**Profile Summary:**
+- DevOps Engineer with 4.5+ years of IT experience.
+- Hands-on expertise in backend and frontend development, automation, and cloud.
+- Strong background in DevOps tools, scripting, and project management platforms.
+
+**Technical Skills:**
+- **Languages:** Python, Java, Groovy, JavaScript, C++, Shell, YAML
+- **Frameworks:** Django, HTML5, CSS3
+- **Databases:** SQL
+- **DevOps:** Docker, Kubernetes, Terraform, Jenkins, Maven, Ansible, Git
+- **Cloud:** AWS, Azure
+- **OS:** Linux
+- **Tools:** Jira, Confluence
+- **Practices:** CI/CD, Infrastructure as Code, Automation
+
+**Hobbies & Interests:**
+- DIY projects
+- Movies
+- Food exploration
+- Keen interest in technologies that are changing lives
