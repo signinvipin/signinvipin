@@ -1,5 +1,5 @@
 **Profile Summary:**
-- DevOps Engineer with 4.5+ years of IT experience.
+- DevOps Engineer with 3.5+ years of relevant and 5.5+ years IT experience.
 - Hands-on expertise in backend and frontend development, automation, and cloud.
 - Strong background in DevOps tools, scripting, and project management platforms.
 
