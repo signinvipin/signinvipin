@@ -1,41 +1,43 @@
 # 👋 Hi, I'm Vipin Kumar
 
-**Junior DevOps Engineer** with 3+ years of experience building and supporting cloud infrastructure, CI/CD pipelines, and containerized applications. Focused on automation, reliability, and scalable delivery on AWS and Azure environments.
+**DevOps Engineer** with 2+ years of experience in cloud infrastructure and CI/CD. Hands-on with AWS, Kubernetes, Docker, Terraform and Jenkins, with experience in monitoring and release deployments. Open to DevOps, SRE and Cloud roles.
 
-- 🌍 Based in Bengaluru, Karnataka, India   
-- 💼 Junior DevOps Engineer @ Starlite Infotech Pvt Ltd (July 2022 – Present)  
+- 🌍 Based in Bengaluru, Karnataka, India
+- 💼 DevOps Engineer @ SGR Info Systems Pvt Ltd (Dec 2024 – Present)
+- 💼 DevOps Engineer @ Omega HMS Pvt Ltd (Jul 2024 – Dec 2024)
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Cloud & DevOps:** AWS (EC2, S3, EKS, VPC), Azure, Docker, Kubernetes, ECS, Helm, Terraform, Ansible, CloudFormation  
-- **CI/CD & SCM:** Jenkins, Azure DevOps, Git, GitHub, Maven, Nexus, Azure Artifacts  
-- **Monitoring & Logging:** Datadog, ELK Stack, Portainer
-- **Scripting & OS:** Python, Bash/Shell, PowerShell, Groovy, YAML • Red Hat, CentOS, Ubuntu, Windows  
-- **Databases:** MySQL, SQLite  
-- **Practices:** Agile/Scrum, GitOps, Configuration Management, Release Engineering   
+- **Cloud & DevOps:** AWS (EC2, S3, EKS, VPC), Azure, Docker, Kubernetes, Helm, Terraform, Ansible, CloudFormation
+- **CI/CD & SCM:** Jenkins, Azure DevOps, Git, GitHub, Maven, Nexus, Azure Artifacts, SonarQube
+- **Monitoring & Logging:** Datadog, Prometheus, Grafana, ELK Stack, Portainer
+- **Programming & Scripting:** Python, Bash/Shell, PowerShell, Groovy, YAML, JSON, XML
+- **Web:** Django, Node.js, JavaScript, HTML, CSS
+- **OS:** Ubuntu, Red Hat, Debian, CentOS, Windows
+- **Databases:** MySQL, SQLite
+- **Practices:** Agile/Scrum, GitOps, Configuration Management, Release Engineering
+- **Familiar with:** AWS ECS, CloudWatch
 
 ---
 
 ## 🚀 What I Work On
 
-- Designing and maintaining CI/CD pipelines using Jenkins and Azure DevOps to enable frequent, reliable releases (10+ deployments/day, 40% reduced deployment time)   
-- Containerizing applications with Docker and managing Kubernetes clusters to improve scalability and resource utilization 
-- Automating infrastructure provisioning and configuration with Terraform, CloudFormation, and Ansible, reducing manual setup time by 60%   
-- Implementing monitoring and observability using Portainer, Datadog, ELK, and CloudWatch to maintain high availability (99.5% uptime) 
-- Collaborating with development teams to troubleshoot production issues, create runbooks, and improve incident response and disaster recovery processes   
+- Maintaining CI/CD pipelines with Jenkins and Azure DevOps for automated builds and deployments
+- Deploying containerized applications with Docker and Kubernetes (AWS EKS), using Helm for releases
+- Provisioning cloud infrastructure with Terraform, CloudFormation and Ansible
+- Monitoring systems with Datadog, Prometheus, Grafana and ELK, and handling alerts and server logs
+- Working with developers to resolve infrastructure, deployment and production issues, and writing runbooks
 
 ---
 
 ## 📚 Education
 
-- **B.Tech, M.Sc ** – Amity University, Gurugram, Haryana  
+- **B.Tech & M.Sc** – Amity University, Gurugram, Haryana
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** vkumarit@aol.com  
-
-Feel free to explore the repositories for examples of my work in CI/CD, infrastructure as code, containerization, and monitoring.
+- **Email:** vipinkumar.codes@gmail.com
