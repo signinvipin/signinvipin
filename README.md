@@ -32,6 +32,21 @@
 
 ---
 
+## 📂 Projects
+
+| Project | What it shows | Tech |
+|---|---|---|
+| [terraform_iac_automation](https://github.com/signinvipin/terraform_iac_automation) | Azure infrastructure provisioned with Terraform and an Azure DevOps pipeline: Key Vault, networking, VMs, encrypted state backend | Terraform, Azure, Azure DevOps |
+| [jenkins_cicd_kubernetes](https://github.com/signinvipin/jenkins_cicd_kubernetes) | Jenkins declarative pipeline for a Spring Boot app: SonarQube scan, Maven build, Docker image, Kubernetes deployment | Jenkins, SonarQube, Docker, Kubernetes |
+| [azure_devops_pipelines](https://github.com/signinvipin/azure_devops_pipelines) | Classic and YAML Azure DevOps pipelines deploying to Kubernetes for dev/test and prod | Azure DevOps, Kubernetes, YAML |
+| [docker](https://github.com/signinvipin/docker) | Docker and Compose examples, Kubernetes manifests and a containerized Spring Boot app | Docker, Compose, Kubernetes |
+| [ansible](https://github.com/signinvipin/ansible) | Playbooks, inventories and roles, including an ELK stack deployment | Ansible, ELK, CentOS |
+| [jenkins_projects](https://github.com/signinvipin/jenkins_projects) | Maven projects for Jenkins build jobs and Nexus publishing | Jenkins, Maven, Nexus |
+
+More: [setup_guides](https://github.com/signinvipin/setup_guides) (tool install notes), [python_code](https://github.com/signinvipin/python_code), [javascript_projects](https://github.com/signinvipin/javascript_projects), [notepadplus_terraform_udl](https://github.com/signinvipin/notepadplus_terraform_udl).
+
+---
+
 ## 📚 Education
 
 - **B.Tech & M.Sc** – Amity University, Gurugram, Haryana
